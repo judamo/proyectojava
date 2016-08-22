@@ -21,4 +21,10 @@ public class Resta {
         // retorna la diferencia de a y b
         return a-b;
     }
+    
+    public int multiplicacion(int a, int b)
+    {
+        // retorna la diferencia de a y b
+        return a*b;
+    }
 }
