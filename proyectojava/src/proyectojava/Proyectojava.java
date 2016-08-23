@@ -18,4 +18,6 @@ public class Proyectojava {
         // TODO code application logic here
     }
     
+    //aqui se crean todas ls funciones
+    
 }
